@@ -1,0 +1,18 @@
+Troughput : 
+	jumlah bytes/time span  = 43940/45,653
+				= 962,47 bit/s
+				= 962,47 x 8 
+				= 7699,76 k bits/s
+
+Paket loss = (((Paket dikirim-Paket diterima)/ Paket dikirim)x100)
+	   = (((132-127)/132)x100)
+	   = 3,787
+
+Delay 
+Total delay = -1463012 s
+Rata-rata delay = -11519,77953 s = 11519779,53
+
+Jitter
+Total Jitter = -12095 s
+Rata-rata Jitter = -95,23622047 s = -95236,22047 ms
+
